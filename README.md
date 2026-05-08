@@ -281,15 +281,6 @@ Free to use, modify, and redistribute. No attribution required.
 
 ---
 
-## 👨‍💻 Author
-
-**Tegar Andriansyah** (@g4rrzx)
-
-- 🌐 Website: https://g4rrzx.my.id
-- 💼 LinkedIn: https://linkedin.com/in/tegar86
-- 🐙 GitHub: https://github.com/g4rrzx
-- 🐦 X/Twitter: https://x.com/g4rrzx
-
 ---
 
 ## 🙏 Acknowledgments
