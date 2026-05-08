@@ -1,0 +1,1 @@
+IndoNews Summarizer - AI-powered news aggregator untuk berita Indonesia yang summary artikel panjang jadi 5 poin singkat. Multi-source, daily digest, search, trending topics, dan sentiment analysis.

@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "detik.com",
+    "kompas.com",
+    "tempo.co",
+    "antaranews.com",
+    "techinasia.com"
+  ],
+  "topics": ["tech", "business", "crypto"],
+  "dailyDigest": {
+    "enabled": true,
+    "time": "07:00",
+    "timezone": "Asia/Jakarta"
+  },
+  "summaryLength": 5,
+  "language": "id",
+  "notifications": {
+    "telegram": true,
+    "whatsapp": false,
+    "email": false
+  }
+}

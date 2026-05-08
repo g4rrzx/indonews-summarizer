@@ -1,0 +1,28 @@
+# IndoNews Summarizer - Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# OpenClaw SDK (for API integration)
+openclaw-sdk>=1.0.0
+
+# RSS Feed parsing
+feedparser>=6.0.0
+
+# Web scraping
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+
+# NLP & AI
+# openai>=1.0.0  # Optional: Direct OpenAI API
+
+# Utilities
+python-dateutil>=2.8.0
+pytz>=2023.0
+
+# Optional: Sentiment analysis
+# textblob>=0.17.0
+# transformers>=4.30.0  # For advanced sentiment
+
+# Optional: Database (for production)
+# sqlite3 (built-in)
+# sqlalchemy>=2.0.0
